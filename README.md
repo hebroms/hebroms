@@ -3,7 +3,7 @@
 Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qualidade de Software e desenvolvimento de Automação de Testes. Tenho paixão por garantir a excelência dos produtos de software e por implementar soluções automatizadas que otimizem processos e assegurem a qualidade.
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens de Programação:** Java,JavaScript, Python, Ruby
+- **Linguagens de Programação:** Java, JavaScript, Python, Ruby, TypeScript, Delphi
 - **Frameworks de Teste:** Junit, PlayWright, Selenium, Cypress, RobotFramework
 - **Ferramentas de CI/CD:** Jenkins, GitHub Actions, Azure
 - **Outras Ferramentas:** Docker, Kubernetes, Git
