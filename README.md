@@ -1,7 +1,7 @@
 # Olá, me chamo Hebrom ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hebroms/hebroms/blob/output/github-contribution-grid-snake.svg)
 
 
 
