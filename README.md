@@ -9,19 +9,19 @@ Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qu
 - **Outras Ferramentas:** Docker, Kubernetes, Git
 
 ## 📌 Projetos em Destaque
-- [**Projeto de Automação de Testes Web JUnit**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados 
-- [**Projeto de Automação de Testes API JUnit**](https://github.com/hebroms/): 
-- [**Projeto de Automação de Testes Mobile JUnit**](https://github.com/hebroms/): 
-- [**Projeto de Automação de Testes Web Cypress**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados 
-- [**Projeto de Automação de Testes API Cypress**](https://github.com/hebroms/): 
-- [**Projeto de Automação de Testes Web RobotFramework**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados 
-- [**Projeto de Automação de Testes API RobotFramework**](https://github.com/hebroms/): 
-- [**Projeto de Automação de Testes Web PlayWright**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados 
-- [**Projeto de Automação de Testes API PlayWright**](https://github.com/hebroms/): 
-- [**Projeto de Automação de Testes Mobile PlayWright**](https://github.com/hebroms/): 
+- [**Projeto de Automação de Testes Web JUnit**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com JUnit, Java para uma aplicação Front-end
+- [**Projeto de Automação de Testes API JUnit**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com JUnit, Java para uma aplicação Back-end
+- [**Projeto de Automação de Testes Mobile JUnit**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com JUnit, Java para uma aplicação Mobile
+- [**Projeto de Automação de Testes Web Cypress**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com Cypress, JavaScript para uma aplicação Front-end
+- [**Projeto de Automação de Testes API Cypress**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com JUnit, JavaScript para uma aplicação Back-end
+- [**Projeto de Automação de Testes Web RobotFramework**](https://github.com/hebroms/):  Desenvolvimento de uma suíte de testes automatizados com RobotFramework, Python para uma aplicação Front-end
+- [**Projeto de Automação de Testes API RobotFramework**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com RobotFramework, Python para uma aplicação Back-end
+- [**Projeto de Automação de Testes Web PlayWright**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com PlayWright, JavaScript para uma aplicação Front-end
+- [**Projeto de Automação de Testes API PlayWright**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com PlayWright, JavaScript para uma aplicação Back-end
+- [**Projeto de Automação de Testes Mobile PlayWright**](https://github.com/hebroms/): Desenvolvimento de uma suíte de testes automatizados com PlayWright, JavaScript para uma aplicação Mobile
 
 ## 📫 Contato
 - **LinkedIn:** [linkedin.com/in/hebrom-c-s](https://www.linkedin.com/in/hebrom-c-s)
 - **Email:** [seuemail@example.com](mailto:seuemail@example.com)
 
-Obrigado por visitar meu perfil! Vamos colaborar e construir algo incrível juntos! 🚀
+Obrigado por visitar meu perfil!
