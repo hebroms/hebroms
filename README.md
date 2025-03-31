@@ -21,6 +21,6 @@ Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qu
 
 ## 📫 Contato
 - **LinkedIn:** [linkedin.com/in/hebrom-c-s](https://www.linkedin.com/in/hebrom-c-s)
-- **Email:** [seuemail@example.com](mailto:seuemail@example.com)
+- **Email:** [hebromsouza@gmail.com](mailto:hebromsouza@gmail.com)
 
 Obrigado por visitar meu perfil!
