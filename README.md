@@ -8,6 +8,12 @@ Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qu
 - **Ferramentas de CI/CD:** Jenkins, GitHub Actions, Azure
 - **Outras Ferramentas:** Docker, Kubernetes, Git
 
+## Documentações de Processos
+[**Manual de Padronização de Casos de Teste**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Documenta%C3%A7%C3%A3o-de-Casos-de-Teste)
+[**Guia de Configuração e Execução de Testes (Cypress Cucumber)**](https://github.com/hebroms/hebroms/wiki/Guia-de-Configura%C3%A7%C3%A3o-e-Execu%C3%A7%C3%A3o-de-Testes-(Cypress---Cucumber))
+[**Guia de Configuração e Execução de Testes com Cypress**](https://github.com/hebroms/hebroms/wiki/Guia-de-Configura%C3%A7%C3%A3o-e-Execu%C3%A7%C3%A3o-de-Testes-com-Cypress)
+[**Padrão para Identificação de Elementos em Testes Automatizados (Cypress JavaScript)**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Identifica%C3%A7%C3%A3o-de-Elementos-em-Testes-Automatizados-(Cypress---JavaScript))
+
 ## 📌 Projetos em Destaque
 - [**Projeto de Performance com K6**](https://github.com/hebroms/k6-performance-tests): Desenvolvimento de uma suíte de testes de performance com K6 e JavaScript com Grafana
 - [**Projeto de Automação de Testes Web Cypress**](https://github.com/hebroms/automacao-web-cypress): Desenvolvimento de uma suíte de testes automatizados com Cypress, JavaScript para uma aplicação Front-end
