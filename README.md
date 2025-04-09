@@ -13,6 +13,7 @@ Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qu
 - [**Guia de Configuração e Execução de Testes (Cypress Cucumber)**](https://github.com/hebroms/hebroms/wiki/Guia-de-Configura%C3%A7%C3%A3o-e-Execu%C3%A7%C3%A3o-de-Testes-(Cypress---Cucumber))
 - [**Guia de Configuração e Execução de Testes com Cypress**](https://github.com/hebroms/hebroms/wiki/Guia-de-Configura%C3%A7%C3%A3o-e-Execu%C3%A7%C3%A3o-de-Testes-com-Cypress)
 - [**Padrão para Identificação de Elementos em Testes Automatizados (Cypress JavaScript)**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Identifica%C3%A7%C3%A3o-de-Elementos-em-Testes-Automatizados-(Cypress---JavaScript))
+- [**Padrão para Elaboração de Plano de Teste**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Elabora%C3%A7%C3%A3o-de-Plano-de-Teste-(Baseado-na-ISO-29119%E2%80%903))
 
 ## 📌 Projetos em Destaque
 - [**Projeto de Performance com K6**](https://github.com/hebroms/k6-performance-tests): Desenvolvimento de uma suíte de testes de performance com K6 e JavaScript com Grafana
