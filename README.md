@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil do GitHub
 
-Sou Hebrom Souza, profissional com mais de 6 anos de experiência na área de Qualidade de Software e desenvolvimento de Automação de Testes. Tenho por prioridade garantir a excelência dos produtos de software e por implementar soluções automatizadas que otimizem processos e assegurem a qualidade.
+Sou Hebrom Souza, profissional com mais de 7 anos de experiência na área de Qualidade de Software e desenvolvimento de Automação de Testes. Tenho por prioridade garantir a excelência dos produtos de software e por implementar soluções automatizadas que otimizem processos e assegurem a qualidade.
 
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens de Programação:** Java, JavaScript, Python, Ruby, TypeScript, Delphi
