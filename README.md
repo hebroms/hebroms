@@ -1,8 +1,8 @@
-# Olá! 👋 Bem-vindo ao meu perfil do GitHub
+# Olá! Bem-vindo ao meu perfil do GitHub
 
-Sou Hebrom Souza, profissional com mais de 7 anos de experiência na área de Qualidade de Software e desenvolvimento de Automação de Testes. Tenho por prioridade garantir a excelência dos produtos de software e por implementar soluções automatizadas que otimizem processos e assegurem a qualidade.
+Sou Hebrom Souza, profissional com mais de 9 anos de experiência na área de Qualidade de Software e desenvolvimento de Automação de Testes. Tenho por prioridade garantir a excelência dos produtos de software e por implementar soluções automatizadas que otimizem processos e assegurem a qualidade.
 
-## 🔧 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 - **Linguagens de Programação:** Java, JavaScript, Python, Ruby, TypeScript, Delphi
 - **Frameworks de Teste:** Junit, PlayWright, Selenium, Cypress, RobotFramework, Jest
 - **Ferramentas de CI/CD:** Jenkins, GitHub Actions, Azure, GitLab
@@ -15,7 +15,7 @@ Sou Hebrom Souza, profissional com mais de 7 anos de experiência na área de Qu
 - [**Padrão para Identificação de Elementos em Testes Automatizados (Cypress JavaScript)**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Identifica%C3%A7%C3%A3o-de-Elementos-em-Testes-Automatizados-(Cypress---JavaScript))
 - [**Padrão para Elaboração de Plano de Teste**](https://github.com/hebroms/hebroms/wiki/Padr%C3%A3o-para-Elabora%C3%A7%C3%A3o-de-Plano-de-Teste-(Baseado-na-ISO-29119%E2%80%903))
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 - [**Projeto de Performance com K6**](https://github.com/hebroms/k6-performance-tests): Desenvolvimento de uma suíte de testes de performance com K6 e JavaScript com Grafana
 - [**Projeto de Automação de Testes Web Cypress**](https://github.com/hebroms/automacao-web-cypress): Desenvolvimento de uma suíte de testes automatizados com Cypress, JavaScript para uma aplicação Front-end
 - [**Projeto de Automação de Testes API Cypress**](https://github.com/hebroms/automation_api_cypress_typescript): Desenvolvimento de uma suíte de testes automatizados com JUnit, JavaScript para uma aplicação Back-end
@@ -26,7 +26,7 @@ Sou Hebrom Souza, profissional com mais de 7 anos de experiência na área de Qu
 - [**Projeto de Automação de Testes de Carga JMeter**](https://github.com/hebroms/testesCarga): Desenvolvimento de uma suíte de testes carga com Jmeter e Java
 - [**Projeto de Automação de Testes de Estress JMeter**](https://github.com/hebroms/testesEstresse): Desenvolvimento de uma suíte de testes estresse com Jmeter e Java
 
-## 📫 Contato
+## Contato
 - **LinkedIn:** [linkedin.com/in/hebrom-c-s](https://www.linkedin.com/in/hebrom-c-s)
 - **Email:** [hebromsouza@gmail.com](mailto:hebromsouza@gmail.com)
 
