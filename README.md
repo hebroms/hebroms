@@ -27,7 +27,7 @@ Sou Hebrom Souza, profissional com mais de 9 anos de experiência na área de Qu
 - [**Projeto de Automação de Testes de Estress JMeter**](https://github.com/hebroms/testesEstresse): Desenvolvimento de uma suíte de testes estresse com Jmeter e Java
 
 ## Contato
-- **LinkedIn:** [linkedin.com/in/hebrom-c-s](https://www.linkedin.com/in/hebrom-c-s)
+- **LinkedIn:** [linkedin.com/in/hebrom-c-s](https://www.linkedin.com/in/hebromsouza)
 - **Email:** [hebromsouza@gmail.com](mailto:hebromsouza@gmail.com)
 
 Obrigado por visitar meu perfil!
